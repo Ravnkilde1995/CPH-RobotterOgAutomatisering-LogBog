@@ -1,6 +1,6 @@
 # CPH-RobotterOgAutomatisering-LogBog
 
-## 01/09/23
+## 1) 01/09/23
 Downloadede platformIO extension, og fik sat et nyt repo op på github, som nu snakker sammen.
 I dag har jeg har fokus på at sætte en base structor op for fremtidige projekter.
 ..
